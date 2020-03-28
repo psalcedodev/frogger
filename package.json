@@ -1,0 +1,14 @@
+{
+  "name": "frogger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.py",
+  "scripts": {
+    "start": "nodemon main.py"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
